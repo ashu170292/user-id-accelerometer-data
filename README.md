@@ -18,7 +18,7 @@ like follows:
 ![logo]
 
 
-[logo]: /Users/ashutoshsingh/Desktop/user-id-accelerometer-data/graphs/dist.png "Logo Title Text 2"
+[logo]: https://github.com/ashu170292/user-id-accelerometer-data/blob/main/graphs/dist.png "Logo Title Text 2"
 
 It is evident from the above graph that we have less data corresponding to person id 3, 5,16 and 19.
 
