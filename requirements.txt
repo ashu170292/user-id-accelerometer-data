@@ -1,0 +1,64 @@
+appnope==0.1.0
+argon2-cffi @ file:///opt/concourse/worker/volumes/live/c4db8eed-7de0-4d68-400c-2ea7e21d3750/volume/argon2-cffi_1596828478065/work
+attrs==19.3.0
+backcall==0.2.0
+bleach==3.1.5
+certifi==2020.6.20
+cffi @ file:///opt/concourse/worker/volumes/live/6ecf3c92-cc45-4825-7707-d9a7636cce94/volume/cffi_1596809957475/work
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+importlib-metadata @ file:///opt/concourse/worker/volumes/live/84197498-cbc0-4436-7ce0-03c4490b7a28/volume/importlib-metadata_1593446431408/work
+ipykernel @ file:///opt/concourse/worker/volumes/live/73e8766c-12c3-4f76-62a6-3dea9a7da5b7/volume/ipykernel_1596206701501/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///opt/concourse/worker/volumes/live/7ea70a71-5624-4799-50b3-3b90e07922f3/volume/ipython_1593447385860/work
+ipython-genutils==0.2.0
+jedi==0.17.0
+Jinja2==2.11.2
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+jsonschema==3.2.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+MarkupSafe==1.1.1
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-base_1595353072824/work
+mistune==0.8.4
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+nbconvert==5.6.1
+nbformat==5.0.7
+notebook @ file:///Users/runner/miniforge3/conda-bld/notebook_1596502482596/work
+numpy @ file:///opt/concourse/worker/volumes/live/40d975a3-7e82-44c8-53df-feccdbce8b96/volume/numpy_and_numpy_base_1596233859108/work
+olefile==0.46
+packaging==20.4
+pandas @ file:///opt/concourse/worker/volumes/live/8386378f-860c-458e-6b3d-426dc3c0374b/volume/pandas_1596825862710/work
+pandocfilters==1.4.2
+parso @ file:///tmp/build/80754af9/parso_1596826841367/work
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1594212133169/work
+prometheus-client==0.8.0
+prompt-toolkit==3.0.5
+ptyprocess==0.6.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments==2.6.1
+pyparsing==2.4.7
+pyrsistent==0.16.0
+python-dateutil==2.8.1
+pytz==2020.1
+pyzmq==19.0.1
+scikit-learn @ file:///opt/concourse/worker/volumes/live/eab838ab-55a5-40d0-5cbd-f1854d35aa9d/volume/scikit-learn_1592503039331/work
+scipy @ file:///opt/concourse/worker/volumes/live/14622691-c324-4e90-5a99-87aced91207b/volume/scipy_1592930535761/work
+seaborn==0.10.1
+Send2Trash==1.5.0
+six==1.15.0
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
+traitlets==4.3.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+xgboost==1.1.1
+zipp==3.1.0
